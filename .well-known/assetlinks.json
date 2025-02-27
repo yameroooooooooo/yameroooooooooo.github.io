@@ -1,0 +1,12 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.example.found_me_things",
+        "sha256_cert_fingerprints": [
+          "C3:E9:A5:82:B9:DA:E7:42:F0:BB:49:35:8E:F9:57:50:C0:77:D0:CA:7A:A0:43:77:39:FA:1B:12:D8:49:85:CE"
+        ]
+      }
+    }
+  ]
